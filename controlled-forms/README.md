@@ -1,6 +1,6 @@
-## Birthday Remider React App
+## Controlled Forms
 
-View Live:
+View Live: https://forms-shusingh.netlify.app/
 
 This mini-project demonstrates the use and working of forms in React.js
 
